@@ -9,9 +9,10 @@ Example of a row in the spreadsheet:
 '''
 def explode_data(sourceFile, destinationFolder):
     import pandas as pd
-    import os
     df = pd.read_excel(sourceFile)
     for i in df['Color']:
         df[df['Color'] == i].to_csv(destinationFolder + i + '.csv', index=False)
         print('Created ' + i + '.csv')
     print('Done exploding data')
+
+explode_data(sourceFile, destinationFolder)
