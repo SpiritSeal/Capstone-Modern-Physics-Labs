@@ -1,5 +1,0 @@
-For LED color "white", the parameters are: [a = 4.5989905091949464e-05 b = -0.00011642017454431573 p = 0.9939646286009354]
-For LED color "red", the parameters are: [a = 4.004230466851044e-05 b = -6.408203194197175e-05 p = 1.0371506862752276]
-For LED color "yellow", the parameters are: [a = 4.112087694656596e-05 b = -6.926392410645828e-05 p = 1.028636748680911]
-For LED color "blue", the parameters are: [a = 4.1083227840914985e-05 b = -9.686629596543286e-05 p = 1.0272881103415852]
-For LED color "green", the parameters are: [a = 4.115146317639347e-05 b = -7.034878453899942e-05 p = 1.0283737004375006]

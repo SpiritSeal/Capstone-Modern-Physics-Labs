@@ -53,6 +53,6 @@ def plot_colorVal(colorVal):
 
 for i in colorValList:
     plot_colorVal(i)
-
+# plot_colorVal('white')
 plt.savefig('outputs/combined.png')
 plt.show()
