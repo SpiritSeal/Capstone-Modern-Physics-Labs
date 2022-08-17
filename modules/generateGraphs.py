@@ -52,8 +52,8 @@ def generateIndivGraph(colorVal):
 
     
     # Plot the original data and connect each point together no regression curve.
-    plt.plot(colorDf['Vdio'], colorDf['I'], color='white')
-    plt.show()
+    # plt.plot(colorDf['Vdio'], colorDf['I'], color='white')
+    # plt.show()
 
 # List of colors to plot
 colorValList = ['white', 'red', 'yellow', 'blue', 'green']
